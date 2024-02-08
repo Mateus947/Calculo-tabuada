@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(94, 179, 212);
+}
+
+header, footer{
+    text-align: center;
+}
+
+main{
+    background-color: white;
+    width: 420px;
+    height: 250px;
+    margin: 0 auto;
+    padding-left: 8px;
+    border-radius: 10px;
+}
+
+p,input{
+    padding-top: 7px;
+    border-radius: 10px;
+    border-color: black;
+}
